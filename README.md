@@ -35,9 +35,7 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
-<br/>
-
 <h3>Onde me encontrar</h3>
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiaboza/)](https://www.linkedin.com/in/leticiaboza/)
+[![Linkedin](https://img.shields.io/badge/-Leticia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiaboza/)](https://www.linkedin.com/in/leticiaboza/)
 [![Gmail Badge](https://img.shields.io/badge/-devleticiaboza@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devleticiaboza@gmail.com)](mailto:devleticiaboza@gmail.com)
